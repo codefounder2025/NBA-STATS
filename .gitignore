@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (raw CSVs are not committed — too large)
+data/raw/
+data/processed/
+
+# OS
+.DS_Store
+Thumbs.db
